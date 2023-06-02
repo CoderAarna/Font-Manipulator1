@@ -1,0 +1,44 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+h3{
+    font-family: 'Fredoka', sans-serif;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    font-family: 'Quicksand', sans-serif;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-right: 500px;
+}
+h2{
+    height: 330px;
+    width: 330px;
+    border-radius: 10px;
+    border-width: 100px;
+    background-color: rgb(185, 16, 242);
+    font-size: 43px;
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    margin-left: 680px;
+    box-shadow: 5px 5px 5px grey;
+    border: 5px solid rgb(7, 127, 179);
+}
